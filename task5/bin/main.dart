@@ -10,10 +10,6 @@ void main() {
 }
 
 
-
-
-
-
 /*
  User data class 
  this class is responsible only for USER DATA 
